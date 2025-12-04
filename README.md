@@ -23,6 +23,8 @@ curl -X POST http://localhost/match \
         "score_a": 1
       }'
 ```
-3) Получение рейтинговой таблицы - http://localhost/users
-   
+3) Получение рейтинговой таблицы в браузере
+```
+http://localhost/users
+```   
    
