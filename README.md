@@ -5,7 +5,7 @@ mkdir ./db/data
 ```
 2)  Выполнить команду
 ```
- sudo docker-compose up
+ sudo docker compose up
 ```
 # Примеры обращения к API
 1) Добавление нового пользователя с рейтингом
