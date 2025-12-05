@@ -1,4 +1,4 @@
-# Для запуска API (nginx + backend на Python + db)
+# Для запуска API (nginx + backend на Python + postgres)
 1) Создать папку data для БД
 ```
 mkdir ./db/data
